@@ -1,23 +1,23 @@
 # 🐍 Python Learning Journey - Udemy
 
-¡Bienvenido/a a mi repositorio de aprendizaje! Este proyecto reúne los códigos, ejercicios y programas desarrollados a lo largo de mi proceso de aprendizaje en Python desde cero, tomando como base un curso especializado en Udemy.
+Welcome to my learning repository! This project compiles the code, exercises, and programs developed throughout my journey of learning Python from scratch, based on a specialized course on Udemy.
 
-El objetivo de este repositorio es consolidar las bases de la programación con Python y servir como evidencia de la aplicación práctica de la lógica de programación y resolución de problemas.
+The goal of this repository is to solidify the fundamentals of Python programming and serve as evidence of the practical application of programming logic and problem-solving skills.
 
 ---
 
-## 📚 Sobre el Curso
+## 📚 About the Course
 
-* **Curso:** The Complete Python Bootcamp (13Hours): Go from Zero to Hero
+* **Course:** The Complete Python Bootcamp (13Hours): Go from Zero to Hero
 * **Instructor:** Baraa Khatib Salkini
-* **Plataforma:** Udemy
-* **Nivel:** Inicial / Desde Cero
+* **Platform:** Udemy
+* **Level:** Initial / From Scratch
 
 ---
 
-## 🧠 Tópicos Aprendidos
+## 🧠 Topics Learned
 
-Durante el desarrollo de este curso adquirí y practiqué conceptos fundamentales de la programación con Python, incluyendo:
+During this course, I acquired and practiced fundamental concepts of Python programming, including:
 
 * **Introduction to Python:** Learn what Python is, why it matters, how it works internally, and how to properly set up your development environment.
 * **Python Basic Tools:** Understand print, input, comments, execution flow, and how Python code runs step by step.
@@ -29,35 +29,31 @@ Durante el desarrollo de este curso adquirí y practiqué conceptos fundamentale
 * **Loops and Iteration:** Master for loops and while loops, range, break, continue, and understand how iteration works internally.
 * **Lists Fundamentals and Advanced:** Work deeply with lists including indexing, slicing, unpacking, copying, sorting, transformations, and advanced list operations.
 * **Data Structures:** Understand tuples, sets, and dictionaries including relationships, operations, and real-world usage patterns.
-* **Manejo de Errores:** Control de excepciones mediante `try` / `except`, uso de raise ValueError.
+* **Error Handling:** Exception handling using try / except, use of raise ValueError.
 * **Functions and Scope:** Design clean functions, understand parameters versus arguments, local versus global scope, positional and keyword arguments, args and kwargs, return values, and professional structure.
-* **3x Projects:** Apply everything you learned by building a , an expense tracker system, and a mini banking system from scratch.
 
 ---
 
-## 🛠️ Proyectos Finales
+## 🛠️ Final Projects
 
-A continuación se describen los 3 ejercicios finales que integran los conocimientos adquiridos en el curso:
+The following describes the three final exercises—created from scratch—that integrate the knowledge acquired during the course:
 
 ### 1. Secure User Registration System (PyP1_User_Registration.py / PyP1_User_Registration2.py)
-* **Descripción
-** A simple user registration module that demonstrates:
+**A simple user registration module that demonstrates:**
 - Validation functions
 - Exception handling
 - Duplicate checking
 - Basic in-memory storage
 
 ### 2. Expense Tracker System (PyP2_Expense_Tracking_System.py)
-* **Descripción**
-A simple expense tracking module that demonstrates:
+**A simple expense tracking module that demonstrates:**
 - Working with lists and dictionaries
 - Validation
 - Exception handling
 - Aggregation logic
 
 ### 3. Mini Banking System (PyP3_Mini_Banking_System.py / PyP3_Mini_Banking_System2.py)
-* **Descripción
-** A simple banking system that allows:
+**A simple banking system that allows:**
 - Account creation
 - Deposits
 - Withdrawals
@@ -66,15 +62,15 @@ A simple expense tracking module that demonstrates:
 
 ---
 
-## 🚀 Cómo Ejecutar los Archivos
+## 🚀 How to Run the Files
 
-Para probar cualquiera de los programas localmente, asegúrate de tener Python 3 instalado y sigue estos pasos:
+To test any of the programs locally, make sure you have Python 3 installed and follow these steps:
 
-Descargar o clonar el código: Haz clic en el botón verde "Code" en GitHub y copia el enlace para usar git clone [URL] en tu terminal, o descarga el archivo ZIP.
+- Download or clone the code: Click the green "Code" button on GitHub and copy the link to use `git clone [URL]` in your terminal, or download the ZIP file.
 
-✉️ Contacto
-Si deseas conectar conmigo o revisar más sobre mi perfil profesional:
+✉️ Contact
+If you would like to connect with me or view more details about my professional profile:
 
-LinkedIn: https://www.linkedin.com/in/alberto-carcache-pallais/
+- LinkedIn: https://www.linkedin.com/in/alberto-carcache-pallais/
 
-GitHub: @albertocarcache
+- GitHub: @albertocarcache
